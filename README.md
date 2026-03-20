@@ -41,7 +41,7 @@ Sensor → ESP32 → Cloud
 ---
 
 ## 📽 Demo Video
-(Add your video link here)
+https://youtu.be/hI97HibXyDI?feature=shared
 
 ---
 
